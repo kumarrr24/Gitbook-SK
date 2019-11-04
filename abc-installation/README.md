@@ -6,7 +6,7 @@ description: This section provides a brief description on how to install ABC ser
 
 The following sections are added here:
 
-[ABC Architecture](abc-architecture.md)
+[ABC Architecture](../abc-architecture.md)
 
 ### Pre-requisites 
 
